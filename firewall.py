@@ -174,7 +174,7 @@ def get_all_rules_in_csv(row,direction,protocol,port_range,ip_range):
     return port_rules
 
 
-fw = firewall("path/to/firewallRules.csv")
+fw = firewall("/path/to/firewallRules.csv")
 # print(fw.accept_packet("inbound", "tcp", 80, "192.168.1.2"))
 # print(fw.accept_packet("inbound", "udp", 53, "192.168.2.4"))
 # print(fw.accept_packet("inbound", "tcp", 81, "192.168.1.2"))
