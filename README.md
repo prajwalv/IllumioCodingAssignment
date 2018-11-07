@@ -1,6 +1,7 @@
 # IllumioCodingAssignment
-I have used the sample rules given in the coding question for generating rules and testing purposes.
-Have uploaded the csv file(firewall.csv) I used for generating rules.
+I have used python for this coding challenge.
+Have used the sample rules given in the coding question for generating rules and testing purposes.
+Have uploaded the csv file(firewall.csv) I used for generating rules and firewall.py is the code file.
 
 I have explained each function inside the code.
 
